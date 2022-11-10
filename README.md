@@ -22,6 +22,6 @@
   
  <a href="https://www.linkedin.com/in/n%C3%ADcolas-henrique-97b765253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/NichHRL/NickHRL/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NickHRL/NickHRL/blob/output/github-contribution-grid-snake.svg)
 
 </div>
